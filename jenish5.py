@@ -15,4 +15,3 @@ else
 {
 printf("the greatest number is %d",c);
 }
-}
